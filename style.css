@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.qizil, .qizil2 {
+    height: 150px;
+    width: 100%;
+    background-color: red;
+}
+
+.kok{
+    height: 250px;
+    width: 100%;
+    background-color: blue;
+}
+
+.qizil{
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.dumaloq{
+    background-color: #fff;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 150%;
+    margin-left: 65ch;  
+
+}
+
+.dumaloq h1{
+    font-size: 9ch;
+    text-align: center;
+    margin-top: 36px;    
+
+} 
